@@ -1,5 +1,4 @@
 APScheduler
-Flask
 Flask-Assets
 Jinja2
 cssmin
